@@ -15,7 +15,7 @@ A lightweight command-line text editor tool for creating, viewing, and editing t
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/simple-text-editor.git
+git clone https://github.com/0xAltc0in/simple-text-editor.git
 cd simple-text-editor
 ```
 
