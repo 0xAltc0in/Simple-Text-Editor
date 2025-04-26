@@ -61,5 +61,30 @@ python main.py view <file_path> [options]
 python main.py info <file_path>
 ```
 
+## 📝 Examples
+
+### Create files with different templates:
+
+```bash
+# Create a blank file
+python main.py create document.txt
+```
+
+```bash
+# Create a note with timestamp
+python main.py create notes/meeting.txt -t note
+```
+
+```bash
+# Create a to-do list
+python main.py create todo.txt -t todo
+```
+
+```bash
+# Create a memo
+python main.py create memo.txt -t memo
+```
+
+
 
 
