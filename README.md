@@ -114,6 +114,6 @@ python main.py info document.txt
 - On Linux, it tries: nano, vim, vi, or emacs (in that order)
 - You can set your preferred editor using the VISUAL or EDITOR environment variables
 
+## 📄 License
 
-
-
+This project is licensed under the MIT License - see the LICENSE file for details.
