@@ -31,5 +31,35 @@ chmod +x main.py
 - `view`: View a text file
 - `info`: Get information about a text file
 
+## 📋 Command Options
+
+### Create a file:
+```bash
+python main.py create <file_path> [options]
+```
+
+#### Options:
+
+- `-t, --template`: Template to use (blank, note, todo, memo)
+
+### Edit a file:
+```bash
+python main.py edit <file_path>
+```
+
+### View a file:
+```bash
+python main.py view <file_path> [options]
+```
+
+#### Options:
+
+- `-n, --line-numbers`: Show line numbers
+
+### Get file information:
+```bash
+python main.py info <file_path>
+```
+
 
 
