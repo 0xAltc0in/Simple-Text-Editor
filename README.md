@@ -10,3 +10,18 @@ A lightweight command-line text editor tool for creating, viewing, and editing t
 - ℹ️ Get information about text files (size, dates, line count)
 - 📄 Support for line numbers when viewing files
 - 🧩 Multiple templates for different purposes (notes, to-do lists, memos)
+
+## 🚀 Installation
+
+1. Clone this repository:
+```bash
+git clone https://github.com/yourusername/simple-text-editor.git
+cd simple-text-editor
+```
+
+2. Make the script executable (Unix/Linux/macOS):
+```bash
+chmod +x main.py
+```
+
+
