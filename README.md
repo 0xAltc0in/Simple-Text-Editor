@@ -24,4 +24,12 @@ cd simple-text-editor
 chmod +x main.py
 ```
 
+## ⚙️ Commands
+
+- `create`: Create a new text file
+- `edit`: Edit a text file
+- `view`: View a text file
+- `info`: Get information about a text file
+
+
 
