@@ -85,6 +85,27 @@ python main.py create todo.txt -t todo
 python main.py create memo.txt -t memo
 ```
 
+### Edit a file:
+```bash
+python main.py edit document.txt
+```
+
+### View files:
+```bash
+# View file contents
+python main.py view document.txt
+```
+
+```bash
+# View with line numbers
+python main.py view document.txt -n
+```
+
+### Get file information:
+```bash
+python main.py info document.txt
+```
+
 
 
 
