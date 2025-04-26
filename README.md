@@ -106,6 +106,14 @@ python main.py view document.txt -n
 python main.py info document.txt
 ```
 
+## 📌 Notes
+
+- The editor uses your system's default text editor
+- On Windows, it defaults to Notepad
+- On macOS, it uses the default text editor
+- On Linux, it tries: nano, vim, vi, or emacs (in that order)
+- You can set your preferred editor using the VISUAL or EDITOR environment variables
+
 
 
 
